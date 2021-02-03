@@ -1,5 +1,5 @@
 # Blog [updated]
-- .[d1gitalflow.com - Javascript/UI/Bitcoin](https://d1gitalflow.com)
+- [d1gitalflow.com - Javascript/UI/Bitcoin](https://d1gitalflow.com)
 
 # Programming books [2018]
 
